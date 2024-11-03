@@ -56,6 +56,4 @@ I am recognized for my ability to research and implement cutting-edge technologi
 # Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E4405F)](https://www.linkedin.com/in/marianaalzateautomationengineer/) 
 [![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E4405F)](mailto:marsica86.26@gmail.com)
-
-# Download my CV
 [![CV](https://img.shields.io/badge/Download_CV-FFC0CB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=E4405F)](https://github.com/marianamon/marianamon/raw/main/MarianaAlzateSandoval_CV.pdf)
