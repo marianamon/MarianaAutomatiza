@@ -20,4 +20,4 @@ I am recognized for my ability to research and implement cutting-edge technologi
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marsica86.26@gmail.com)
 
 # Download my CV
-[![CV](https://img.shields.io/badge/Download_CV-4A4A4A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/tu-usuario/tu-repositorio/raw/main/Mariana_Alzate_CV.pdf)
+[![CV](https://img.shields.io/badge/Download_CV-4A4A4A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/marianamon/marianamon/blob/main/MarianaAlzateSandoval_CV.pdf)
