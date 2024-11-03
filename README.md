@@ -4,6 +4,7 @@
 ## QA Leader & QA Automation
 
 </div>
+
 # About me
 I am a professional specializing in software automation and testing. With extensive experience developing software test automation frameworks, I am proficient in technologies such as Selenium, Cypress, Playright, BDD, Cucumber and Specflow, Gradle, and Maven, with programming languages such as Java, typescript, C#, and Python and patterns design such as Page Object Model and Screenplay.
 My background includes creating and leading manual testing processes in web, API, mobile, cloud services, and AI environments.
