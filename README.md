@@ -16,8 +16,8 @@ I am recognized for my ability to research and implement cutting-edge technologi
 ![image](https://github.com/user-attachments/assets/fc25c05e-1103-42fc-848d-91ba770609a9)
 
 # Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianaalzateautomationengineer/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marsica86.26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E4405F)](https://www.linkedin.com/in/marianaalzateautomationengineer/) 
+[![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E4405F)](mailto:marsica86.26@gmail.com)
 
 # Download my CV
-[![CV](https://img.shields.io/badge/Download_CV-4A4A4A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/marianamon/marianamon/raw/main/MarianaAlzateSandoval_CV.pdf)
+[![CV](https://img.shields.io/badge/Download_CV-FFC0CB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=E4405F)](https://github.com/marianamon/marianamon/raw/main/MarianaAlzateSandoval_CV.pdf)
