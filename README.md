@@ -12,7 +12,7 @@ My background includes creating and leading manual testing processes in web, API
 In addition to my experience in manual and automated testing processes, I am implementing CI-CD processes with GitHub actions and Jenkins and performance testing with Locust.
 I am recognized for my ability to research and implement cutting-edge technologies and for my effective communication and collaboration skills, both independently and within teams.
 
-### Tech Stack
+# Tech Stack
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=43B02A&logoWidth=20)](https://www.selenium.dev/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=17202C&logoWidth=20)](https://www.cypress.io/)
